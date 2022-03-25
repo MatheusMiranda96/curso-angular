@@ -11,7 +11,7 @@ export class FirtstComponentComponent implements OnInit {
   job = 'Programador';
   hobbies = ['Correr', 'Jogar', 'Estudar'];
   car = {
-    name: "Polo",
+    name: "Jetta",
     year: 2022,
   }
 
