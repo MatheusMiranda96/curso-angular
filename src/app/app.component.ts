@@ -19,7 +19,7 @@ export class AppComponent {
     name: 'Chuteira Adidas',
     valor: '450,00',
     tamanho_prod: '(40 - 41) | (31 - 32)',
-    desc_prod: 'Chuteira Adidas Predador 2022'
+    desc_prod: 'Chuteira Adidas Predator 2022'
   };
 
   title = 'curso-angular';
